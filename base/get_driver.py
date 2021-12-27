@@ -10,7 +10,5 @@ class GetDriver:
             self.driver = webdriver.Chrome(ChromeDriverManager().install())
         elif browser_name == 'Firefox':
             self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
-        elif browser_name == 'Edge':
-            self.driver = webdriver.Edge(EdgeChromiumDriverManager().install())
 
 

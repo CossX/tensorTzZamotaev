@@ -1,0 +1,6 @@
+allure-pytest==2.9.45
+numpy==1.21.5
+Pillow==8.4.0
+pytest==6.2.5
+selenium==4.1.0
+webdriver-manager==3.5.2

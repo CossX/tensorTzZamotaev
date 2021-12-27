@@ -1,0 +1,8 @@
+.idea
+*.pyc
+*.egg-info
+*.egg
+dist
+build
+allure-results
+venv
